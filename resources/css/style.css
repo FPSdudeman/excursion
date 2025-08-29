@@ -3,7 +3,15 @@ body {
 	font-family: Arial;
 }
 
+#top-link {
+	color: aquamarine;
+	font-size: 16px
+}
+
 h1 {
+	font-family: Verdana;
 	color: white;
 	text-align: center;
+	font-size: 50px;
+	font-weight: normal;
 }
