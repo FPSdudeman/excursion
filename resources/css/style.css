@@ -27,6 +27,7 @@ h2 {
 }
 
 p {
+	text-align: center;
 	font-family: Verdana;
 	font-size: 21px;
 	color: gray;
