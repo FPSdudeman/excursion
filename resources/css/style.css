@@ -18,9 +18,13 @@ h1 {
 }
 
 .video1 {
-	position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .image1 {
-	position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
