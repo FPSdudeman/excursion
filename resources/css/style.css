@@ -5,7 +5,8 @@ body {
 
 #top-link {
 	color: aquamarine;
-	font-size: 16px
+	font-size: 16px;
+	text-align: center;
 }
 
 h1 {
@@ -14,4 +15,22 @@ h1 {
 	text-align: center;
 	font-size: 50px;
 	font-weight: normal;
+}
+
+.parent {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.video1 {
+	position: relative;
+        top: 0;
+        left: 0;
+}
+
+.image1 {
+	position: relative;
+	top: 0;
+	left: 0;
 }
